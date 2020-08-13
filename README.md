@@ -1,15 +1,11 @@
 # Collections Exercise
 
 ## Intention
-
 This program intends to remove strings containing 'oggy' from a list of strings.
-"oggy" is bad so we need to remove it. 
 "oggy" comes in cartoon network
 
 ## Method
+The code works according to the intention.
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
-
-we need to change the code to run it
+## Completion
+Assignment completed it now.
