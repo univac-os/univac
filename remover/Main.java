@@ -12,7 +12,8 @@ public class Main {
 			   {
 			       names.remove(i);
 			   }
-                System.out.println(names.get(i));
+			   else
+                		System.out.println(names.get(i));
 			}
         return;
     }
